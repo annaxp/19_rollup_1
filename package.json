@@ -1,0 +1,14 @@
+{
+  "name": "19_rollup-task-1-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "rollup -c -w",
+    "build": "rollup -c"
+  },
+  "keywords": ["rollup"],
+  "author": "AnnaNika",
+  "license": "ISC"
+}
